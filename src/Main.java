@@ -4,5 +4,9 @@ public class Main
     {
         System.out.println("Hello fucking git");
         System.out.println("Blalala");
+        for (int i = 0; i < 100; i++)
+        {
+            System.out.println("blablabla");
+        }
     }
 }
